@@ -54,8 +54,7 @@ Bienvenido a mi perfil de GitHub 🚀
 
 ## 🌐 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/alexander-jose-gonzalez-solorzano/)  
-- 📧 *(Agrega tu correo profesional aquí)*  
 
----
+
 
 ✨ *Construyendo soluciones tecnológicas seguras, eficientes y con impacto real.*

@@ -14,8 +14,8 @@ Bienvenido a mi perfil de GitHub 🚀
 ---
 
 ## 🎓 Certificaciones recientes
-- Microsoft Azure AI Essentials (2026)  
-- AWS Cloud Practitioner (2026)  
+- Certificado profesional Microsoft Azure AI Essentials de Microsoft y LinkedIn (2026)  
+- AWS Cloud Quest: Cloud Practitioner (2026)  
 - Oracle Cloud Infrastructure AI Foundations (2025–2027)  
 - ISO/IEC 27001 Information Security Associate (2026)  
 - Cisco Introduction to Cybersecurity (2025)  
